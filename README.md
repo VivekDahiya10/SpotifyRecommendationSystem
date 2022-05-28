@@ -13,7 +13,7 @@ Flask
 
 ## How to use 
 To clone the repository use:
-git clone https://github.com/VivekDahiya10/SpotifyRecommendationSystem.git
+git lfs clone https://github.com/VivekDahiya10/SpotifyRecommendationSystem.git
 
 ## Process
 
