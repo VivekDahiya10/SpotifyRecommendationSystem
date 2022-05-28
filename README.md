@@ -19,7 +19,7 @@ git clone https://github.com/VivekDahiya10/SpotifyRecommendationSystem.git
 
 The following image is the flow chart of the project:
 
-![Flowchart](Flow_chart.png.jpg)
+![Flowchart](Flow_chart.png)
 ### Data extraction
 
 Here are a couple of things you should know before starting the project.
