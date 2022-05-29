@@ -13,7 +13,9 @@ Flask
 
 ## How to use 
 To clone the repository use:
+```sh
 git lfs clone https://github.com/VivekDahiya10/SpotifyRecommendationSystem.git
+```
 
 ## Process
 
@@ -101,7 +103,7 @@ pip3 install -r requirements.txt
 └── requirements.txt   <- The requirements file for reproducing the analysis environment.
 ```
 ## Future Scope and Limitations
-1. This system has limited number of songs and in english language only.This can be extended to other langauages.
-2. This app can be deployed on online platforms.
+1. This system has limited number of songs and only in english language.The dataset can be extended to other langauages.
+2. This app can be deployed on online hosting platforms.
 3. The model can be trained on new inputs that the user enters and the dataset can updated.
 4. A larger dataset can be taken in order to get better results in a wide range of genres.
